@@ -4,7 +4,7 @@
 ⚡ Fun fact: I never give up on learning new things!
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anfaccabdullahi049@gmail.com)
-https://www.threads.net/@anfacyyy__
+[![threads]https://www.threads.net/@anfacyyy__
 
 
 # 💻 Tech Stack:
