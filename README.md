@@ -2,6 +2,7 @@
 🌱 I’m learning Web Development  
 💻 I love building clean and creative projects  
 ⚡ Fun fact: I never give up on learning new things!
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Anfac Abdullahi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Awo) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Anfac Abdullahi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anfaccabdullahi049@gmail.com) 
 
@@ -11,12 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=AnfacTeach&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AnfacTeach&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnfacTeach&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AnfacTeach&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AnfacTeach&icon=2&color=0)](https://visitcount.itsvg.in)
